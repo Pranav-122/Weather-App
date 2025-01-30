@@ -1,5 +1,7 @@
 🌦️ Weather App
+
 📌 Overview
+
 This Weather App provides real-time weather updates, a 5-day forecast, and air quality index (AQI) data. Users can search for a city's weather or use their current location to fetch data.
 
 ✨ Features
